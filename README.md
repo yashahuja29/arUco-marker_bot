@@ -143,4 +143,4 @@ cv2.destroyAllWindows()
 ```
 <br> i
 <h1> team </h1>
-Yash Ahuja<br>Ayush Verma <br> Jyotsna Singh </p>
+Yash Ahuja<br>Ayush Verma <br> Jyotsna Singh<br>Priyanshu Pansari </p>
