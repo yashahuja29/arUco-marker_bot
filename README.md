@@ -1,4 +1,4 @@
-# aruku-marker_bot
+# arUco-marker_bot
 <h1>AIM:</h1>
 
 TO MAKE A DIFFERENTIAL DRIVE WHICH FOLLOWS AN ARUKU MARKER<br>
